@@ -37,7 +37,7 @@ color: #00adb5;
 
 }
 table{
-
+margin-left: 10rem;
 background-color: white;
 /* background-color: #00adb5; */
 padding: 2rem 2rem 3rem 10rem;
@@ -71,6 +71,7 @@ text-align: center;
 }
 hr{
 
+margin-right: -.5rem;
   border-width: .31rem;
   height: .625rem;
   border-color: white;
