@@ -1,6 +1,8 @@
 body{
 
 margin-top: 2rem;
+margin-left: 0;
+margin-right: 0;
   background-color: #00adb5;
 font-family: 'Montserrat', sans-serif;
 /* background-image: linear-gradient(to right, #b030b0 , #6639a6); */
@@ -30,14 +32,14 @@ label{
   padding-top: 3.125rem;
   font-size: 1.5rem;
   font-family: 'Raleway', sans-serif;
-/* color: #eeeeee; */
+
 color: #00adb5;
 
 
 
 }
 table{
-margin-left: 10rem;
+margin-left: 20rem;
 background-color: white;
 /* background-color: #00adb5; */
 padding: 2rem 2rem 3rem 10rem;
@@ -57,21 +59,18 @@ margin: 1.25rem 0 0 5rem;
 }
 .top{
   /* text-align: center; */
-  margin-left: 10rem;
+  margin-left: 20rem;
   font-size: 1rem;
   color: #eeeeee;
 
 }
 .submit{border-radius: 1.2rem;
 padding: 1rem 5rem 2rem 5rem;
-  /* margin-left: 36.25rem; */
 
 text-align: center;
 
 }
 hr{
-
-margin-right: -.5rem;
   border-width: .31rem;
   height: .625rem;
   border-color: white;
